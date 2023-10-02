@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
 //maing
         //lite greejje
         //lte mer grejjer
+        //göt klart
 
     }
 }
